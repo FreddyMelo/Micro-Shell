@@ -1,4 +1,4 @@
-A Simplified Linux Shell
+Micro Shell - A Simplified Linux Shell
 
 A minimalist shell program written in C that mimics the core functionalities of a Unix shell. It supports foreground and background job execution, built-in command handling, basic job control (`fg`, `bg`, `jobs`), and I/O redirection. This project was developed with an emphasiso on further developing system-level programming skills and demonstrate knowledge of process management, signal handling, and dynamic memory structures.
 
